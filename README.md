@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mihiran Vikram
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Jenkins,Spark,Airflow,Java,terraform
+- 🌱 My current skills are Python, Terraform, API development, SQL, Unix scripting etc.
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me +1-770-875-8729
 
